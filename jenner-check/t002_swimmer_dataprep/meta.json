@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_swimmer_dataprep",
+  "source_file": "swimmer_plot.sas",
+  "source_blob_sha": "7bbc52ca38793907cda442e44a448a593f67037c",
+  "source_commit": "2918fc525e4200a7dd97169f985387a786df6c3b",
+  "notes": "swimmer-plot data-prep DATA step verbatim (column-range input, missing-value startline/endline derivation) over inline 15-row datalines; a PROC PRINT was appended only to surface the derived columns. 15 obs printed."
+}

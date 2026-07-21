@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_spaghetti_series",
+  "source_file": "Spaghetti.sas",
+  "source_blob_sha": "5c3abe254e9dc2db9ea6185584d362e5e965909b",
+  "source_commit": "2918fc525e4200a7dd97169f985387a786df6c3b",
+  "notes": "PROC SGPLOT SERIES spaghetti plot grouped by subject with GROUPLC=trt_group; reads 20 obs via list input with '@@' and PARMCARDS4. Only the two hardcoded d:/ paths were rewritten to relative (libname sd1 '.', ods pdf file='spaghetti_sas.pdf'); all plot logic unchanged."
+}

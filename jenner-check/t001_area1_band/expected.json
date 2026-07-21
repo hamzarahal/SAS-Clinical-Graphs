@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-21T05:10:40.959715+00:00",
+  "_captured_run_id": "r_bb44f8e5585b49349f9d0712c73aaec9",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 5 rows from DATALINES.",
+    "NOTE: Wrote my_data (5 rows, 4 columns).",
+    "NOTE: PROC SGPLOT output written to: ./ods_output/area1.png"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

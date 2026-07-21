@@ -1,0 +1,21 @@
+NOTE: Jenner v1.5.37 (build v1.5.37+886f95a5f1.20260717T051227Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: Fileref ODSOUT assigned to ..
+NOTE: DATA my_data
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote my_data (5 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: ODS HTML: Destination opened (file=area1.htm).
+NOTE: ODS Graphics is ON (width=800px, height=600px, format=PNG).
+NOTE: Option TITLE changed to Area Under Line Plot.
+NOTE: Option TITLE2 changed to With Transparent Colors.
+NOTE: PROC SGPLOT data=my_data
+
+NOTE: PROC SGPLOT output written to: ./ods_output/area1.png
+NOTE: ODS HTML: Output written to /tmp/work/r_bb44f8e5585b49349f9d0712c73aaec9/odsout/area1.htm.
