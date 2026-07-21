@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-21T05:10:40.959715+00:00",
+  "_captured_run_id": "r_cdd00e0eeb18413fac2972aeaa009ede",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 20 rows from DATALINES.",
+    "NOTE: Wrote sd1.have (20 rows, 4 columns).",
+    "NOTE: PROC SGPLOT output written to: ./ods_output/sgplot.svg"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

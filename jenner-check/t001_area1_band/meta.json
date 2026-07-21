@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_area1_band",
+  "source_file": "area1.sas",
+  "source_blob_sha": "919ded8b20bee8e55498ba859e62054cf51409b0",
+  "source_commit": "2918fc525e4200a7dd97169f985387a786df6c3b",
+  "notes": "PROC SGPLOT band/area plot ('Area Under Line Plot') over an inline 5-row DATA step; ships byte-identical to area1.sas (relative filename odsout '.' needed no edit). Produces ods_output/area1.png."
+}

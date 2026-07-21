@@ -1,0 +1,15 @@
+NOTE: Jenner v1.5.37 (build v1.5.37+886f95a5f1.20260717T051227Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA swimmer
+
+NOTE: Processing inline DATALINES (15 lines)
+
+NOTE: Read 15 rows from DATALINES.
+NOTE: Wrote swimmer (15 rows, 12 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=swimmer
+
+NOTE: PROC PRINT completed: 15 observations printed, 9 variables

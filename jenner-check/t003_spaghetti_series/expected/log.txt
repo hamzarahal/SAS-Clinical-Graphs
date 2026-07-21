@@ -1,0 +1,21 @@
+NOTE: Jenner v1.5.37 (build v1.5.37+886f95a5f1.20260717T051227Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: Option VALIDVARNAME changed to UPCASE.
+NOTE: Library SD1 assigned path=..
+NOTE: DATA sd1.have
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 20 rows from DATALINES.
+NOTE: Wrote sd1.have (20 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: Option ORIENTATION changed to PORTRAIT.
+NOTE: ODS Graphics is ON (width=7in, height=9in, format=SVG).
+NOTE: PROC SGPLOT data=sd1.have
+
+NOTE: PROC SGPLOT output written to: ./ods_output/sgplot.svg
+NOTE: ODS PDF: rendering images at 150 DPI.
+NOTE: ODS PDF: wrote report to /tmp/work/r_cdd00e0eeb18413fac2972aeaa009ede/spaghetti_sas.pdf.
